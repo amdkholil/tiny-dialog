@@ -2,6 +2,7 @@ name: tiny_dialog
 description: "Very Easy Simple Dialog for Flutter"
 version: 1.0.0
 homepage: "https://axemma.my.id"
+repository: "https://github.com/amdkholil/tiny-dialog"
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
